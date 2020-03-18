@@ -1,0 +1,6 @@
+Total Users: 	2
+Total Tasks: 	3
+Tasks Assigned To Each User (%): 	{'admin': 67, 'jaco': 33}
+Tasks Completed By Each User (%): 	{'admin': 50, 'jaco': 0}
+Each User's Incomplete Tasks (%): 	{'admin': 50, 'jaco': 100}
+Incomplete & Overdue Tasks (%): 	{'admin': 0, 'jaco': 100}
