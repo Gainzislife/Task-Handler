@@ -4,7 +4,7 @@ This is a program for a small business to help manage tasks assigned to members 
 
 ## Motivation
 
-This project was created to consolidate the knowledge I've gained through various tasks.
+This project was created to consolidate the knowledge I've gained through various tasks during a bootcamp with HyperionDev.
 
 ## Prerequisites
 
